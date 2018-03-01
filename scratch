@@ -1,0 +1,37 @@
+wget -O DSL5008EN-246.148.1-001.zip ftp://ftp.aztech.com/Support/SINGAPORE/ADSL/DSL5008EN%20Firmware%20v246.148.1-001.zip
+wget -O DSL5008EN-246.148.1-002.zip ftp://ftp.aztech.com/Support/SINGAPORE/ADSL/DSL5008EN%20Firmware%20v246.148.1-002.zip
+wget -O DSL5001EN-244.148.2-005.zip ftp://ftp.aztech.com/Support/SINGAPORE/ADSL/DSL5001EN%20Firmware%20v244.148.2-005.zip
+wget -O DSL5001EN-244.148.2-006.zip ftp://ftp.aztech.com/Support/SINGAPORE/ADSL/DSL5001EN%20Firmware%20v244.148.2-006.zip
+wget -O DSL5008EN-253.148.2-005.zip ftp://ftp.aztech.com/Support/SINGAPORE/ADSL/DSL5008EN(L)%20Firmware%20v253.148.2-005.zip
+
+wget -O DSL5005EN-243.106.2-011.zip ftp://ftp.aztech.com/Support/MALAYSIA/ADSL/DSL5005EN/Firmware/DSL5005EN%20Firmware%20243.106.2-011.zip
+wget -O DSL5008EN-246.106.2-007.zip ftp://ftp.aztech.com/Support/MALAYSIA/ADSL/DSL5008EN/Firmware/DSL5008EN%20Firmware%20246.106.2-007.zip
+
+wget -O P-660HN-T3A.zip https://www.o2.cz/_pub/af/2a/cb/322778_835577_TCLinux_102UTO1D0.zip
+wget -O P-660HU-T1-14561.zip http://support.zyxel.eu/Support/30062/30085/en-gb/Download/DownloadFile/14561/P-660HU-T1-Firmware?fileDeptId=30085&folderId=99
+
+wget -O P-660HN-T1A-102VBQ0D0.bin ftp://ftp.zyxel.com.tr/Zyxel_urunleri/MODEMLER/ADSL_MODEMLER/P-660HN-T1A/firmware/102VBQ0D0.bin
+wget -O P-660HN-T1A-102VBQ1D0.bin ftp://ftp.zyxel.com.tr/Zyxel_urunleri/MODEMLER/ADSL_MODEMLER/P-660HN-T1A/firmware/102VBQ1D0.bin
+
+wget -O P-1202-T10B-V200AAIA3C0.bin ftp://ftp.zyxel.com.tr/Zyxel_urunleri/MODEMLER/ADSL_MODEMLER/P-1202-T10B/Firmware/V200AAIA3C0.bin
+wget -O P-1202-T10B-V200AAIA6C0.bin ftp://ftp.zyxel.com.tr/Zyxel_urunleri/MODEMLER/ADSL_MODEMLER/P-1202-T10B/Firmware/V200AAIA6C0.bin
+wget -O P-1202-T10B-V200AAIA7C0.bin ftp://ftp.zyxel.com.tr/Zyxel_urunleri/MODEMLER/ADSL_MODEMLER/P-1202-T10B/Firmware/V200AAIA7C0.bin
+
+wget -O P-1302-T10B-V200AAIC0C1.bin ftp://ftp.zyxel.com.tr/Zyxel_urunleri/MODEMLER/ADSL_MODEMLER/P-1302-T10B/Firmware/V200AAIC0C1.bin
+wget -O P-1302-T10B-V200AAIC2C0.bin ftp://ftp.zyxel.com.tr/Zyxel_urunleri/MODEMLER/ADSL_MODEMLER/P-1302-T10B/Firmware/V200AAIC2C0.bin
+wget -O P-1302-T10B-V200AAIC6C0.bin ftp://ftp.zyxel.com.tr/Zyxel_urunleri/MODEMLER/ADSL_MODEMLER/P-1302-T10B/Firmware/V200AAIC6C0.bin
+wget -O P-1302-T10B-V200AAIC5C0.bin ftp://ftp.zyxel.com.tr/Zyxel_urunleri/MODEMLER/ADSL_MODEMLER/P-1302-T10B/Firmware/V200AAIC5C0.bin
+
+wget -O P-1302T10D_v3-200ABFZ1D0.bin ftp://ftp.zyxel.com.tr/Zyxel_urunleri/MODEMLER/ADSL_MODEMLER/P-1302T10D_v3/Firmware/Millenicom/200ABFZ1D0.bin
+wget -O P-1302T10D_v3-200ABBX3D0.bin ftp://ftp.zyxel.com.tr/Zyxel_urunleri/MODEMLER/ADSL_MODEMLER/P-1302T10D_v3/Firmware/Kanal/200ABBX3D0.bin
+wget -O P-1302T10D_v3-200ABBX2D0.bin ftp://ftp.zyxel.com.tr/Zyxel_urunleri/MODEMLER/ADSL_MODEMLER/P-1302T10D_v3/Firmware/Kanal/200ABBX2D0.bin
+wget -O P-1302T10D_v3-200ABFQ1D0.bin ftp://ftp.zyxel.com.tr/Zyxel_urunleri/MODEMLER/ADSL_MODEMLER/P-1302T10D_v3/Firmware/Goknet/200ABFQ1D0.bin
+wget -O P-1302T10D_v2-200ABBN1D0.bin ftp://ftp.zyxel.com.tr/Zyxel_urunleri/MODEMLER/ADSL_MODEMLER/P-1302T10D_v2/200ABBN1D0.bin
+wget -O P-1302T10D_v2-200ABBN0D0.bin ftp://ftp.zyxel.com.tr/Zyxel_urunleri/MODEMLER/ADSL_MODEMLER/P-1302T10D_v2/200ABBN0D0.bin
+wget -O P-1302-T10D-200AAXP1D0.bin ftp://ftp.zyxel.com.tr/Zyxel_urunleri/MODEMLER/ADSL_MODEMLER/P-1302-T10D/Firmware/200AAXP1D0.bin
+wget -O P-1302-T10D-200AAXP0D0.bin ftp://ftp.zyxel.com.tr/Zyxel_urunleri/MODEMLER/ADSL_MODEMLER/P-1302-T10D/Firmware/200AAXP0D0.bin
+
+wget -O P-660HN_T1_v2-200AAKK3D0.bin ftp://ftp.zyxel.com.tr/Zyxel_urunleri/MODEMLER/ADSL_MODEMLER/P-660HN_T1_v2/Firmware/200AAKK3D0.bin
+wget -O P-660HN_T1_v2-200AAKK2D0_KullaniciAdiFix.bin ftp://ftp.zyxel.com.tr/Zyxel_urunleri/MODEMLER/ADSL_MODEMLER/P-660HN_T1_v2/Firmware/200AAKK2D0_KullaniciAdiFix.bin
+wget -O P-660HN_T1_v2-200AAKK1D0.bin ftp://ftp.zyxel.com.tr/Zyxel_urunleri/MODEMLER/ADSL_MODEMLER/P-660HN_T1_v2/Firmware/200AAKK1D0.bin
+wget -O P-660HN_T1_v2-200AAKK0C0.bin ftp://ftp.zyxel.com.tr/Zyxel_urunleri/MODEMLER/ADSL_MODEMLER/P-660HN_T1_v2/Firmware/200AAKK0C0.bin
