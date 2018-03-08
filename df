@@ -1,0 +1,4 @@
+wget -O RAW300UA02_2011.zip http://www.digicom.it/comuni/upgrade/Raw300UA02/RAW300UA02_2011.zip
+wget -O RAW300A01_2012.zip http://www.digicom.it/comuni/upgrade/Raw300A01/RAW300A01_2012.zip
+wget -O RAW150A02_2018.zip http://www.digicom.it/comuni/upgrade/Raw150A02/RAW150A02_2018.zip
+wget -O RAW150A03_2009.zip http://www.digicom.it/comuni/upgrade/Raw150A03/RAW150A03_2009.zip
